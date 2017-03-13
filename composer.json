@@ -1,0 +1,11 @@
+{
+    "name": "blendle/blendle-button-sdk",
+    "type": "library",
+    "require": {
+        "firebase/php-jwt": "^4.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
